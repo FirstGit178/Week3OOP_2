@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="156e8749-0f36-48f8-9863-1bffda176c6e" name="Changes" comment="Initial Calc commit">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/week3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/week3/Main.java" afterDir="false" />
+    <list default="true" id="156e8749-0f36-48f8-9863-1bffda176c6e" name="Changes" comment="Initial Calc commit **subtract two numbers**">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/week3/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/week3/Calc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,23 +20,46 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="subtract-two-numbers" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "FirstGit178"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;searchQuery&quot;: &quot;calc&quot;,
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;FirstGit178&quot;
+    },
+    {
+      &quot;searchQuery&quot;: &quot;java&quot;,
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;FirstGit178&quot;
+    },
+    {
+      &quot;searchQuery&quot;: &quot;origin&quot;,
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;FirstGit178&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;searchQuery&quot;: &quot;origin&quot;,
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;FirstGit178&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/FirstGit178/Week3OOP_2.git",
-    "accountId": "39cc62dc-b256-4129-b8ce-ba4b0e3f40a3"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/FirstGit178/Week3OOP_2.git&quot;,
+    &quot;accountId&quot;: &quot;39cc62dc-b256-4129-b8ce-ba4b0e3f40a3&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2qaObeKpAwIWec46uPReaUArCXv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -45,7 +69,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "multiply-two-numbers",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -72,7 +96,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734897308776</updated>
-      <workItem from="1734897311333" duration="965000" />
+      <workItem from="1734897311333" duration="3779000" />
+      <workItem from="1735131689715" duration="815000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Calc commit">
       <option name="closed" value="true" />
@@ -90,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734898008627</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial Calc commit **add two numbers**">
+      <option name="closed" value="true" />
+      <created>1734898885606</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734898885606</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,12 +137,17 @@
             <list>
               <RecentGroup>
                 <option name="FILTER_VALUES">
-                  <option value="origin/master" />
+                  <option value="HEAD" />
                 </option>
               </RecentGroup>
               <RecentGroup>
                 <option name="FILTER_VALUES">
-                  <option value="HEAD" />
+                  <option value="origin/subtract-two-numbers" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
                 </option>
               </RecentGroup>
               <RecentGroup>
@@ -132,7 +170,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="HEAD" />
                       </list>
                     </value>
                   </entry>
@@ -146,6 +184,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Calc commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Calc commit" />
+    <MESSAGE value="Initial Calc commit **add two numbers**" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Calc commit **add two numbers**" />
   </component>
 </project>
